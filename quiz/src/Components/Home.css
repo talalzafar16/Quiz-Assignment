@@ -1,0 +1,49 @@
+*{
+    margin: 0;padding: 0;
+}
+.body{
+    width: auto;
+    height: 540px;
+    padding:42px;
+    background-color: rgb(223, 249, 253);
+}
+.box{ 
+    background-image: linear-gradient(to right, rgba(158, 218, 245, 0.959), rgba(65, 185, 255, 0.959));
+    margin-left:480px;
+    padding:26px;
+    height:500px;
+    width:300px;
+    border-radius:32px;
+    box-shadow: 10px 10px 9px rgba(179, 239, 250, 0.959);
+}
+#image{
+    padding-left:17px;
+    padding-top:30px;
+}
+#button{
+    font-weight: bold;
+    background-color: rgba(247, 166, 14, 0.973);
+    color:white;
+    width: 294px;
+    height:42px;
+    margin-top:20px;
+    margin-left:3px;
+    border-radius:22px;
+}
+
+#login{ 
+    background-color: rgb(230, 16, 16);
+    color:white;
+    width:100px;
+    margin-top:30px;
+    margin-left:3px;
+    border-radius:22px;
+}
+#signup{ 
+    background-color: rgb(230, 16, 16);
+    color:white;
+    width:100px;
+    margin-top:30px;
+    margin-left:97px;
+    border-radius:22px;
+}

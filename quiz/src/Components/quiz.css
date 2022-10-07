@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.freequiz{
+    text-align: center;
+    margin-top:10px;
+    color:rgba(247, 166, 14, 0.973);
+}
+.quizbox{
+    background-color:rgb(247, 244, 244);
+    margin-left:218px;
+    margin-top:30px;
+    height:430px;
+    width:900px;
+    border-left:8px solid rgba(34, 140, 202, 0.959);
+    font-family: "Times New Roman", Times, serif;
+}
+.box{
+    height:16px;
+    margin-top:18px;
+    padding:22px;
+    margin-left:20px;
+}
+.options{
+    color:rgba(18, 106, 157, 0.959);
+    font-family: "Times New Roman", Times, serif;
+    font-size:24px;
+    font-weight:"bold";
+}
+#number{
+    margin-left:380px;
+}
+#question{
+    margin-left:20px;
+    font-size:20px;
+}
+
+
+#back{
+    margin-top:20px;
+    margin-left:110px;
+    width:120px;
+}
+#next{
+    margin-top:20px;
+    margin-left:110px;
+    width:120px;
+}
+#submit{
+
+    margin-top:20px;
+    margin-left:110px;
+    width:120px;
+}
+.timer{
+    color:red;
+    margin-top:-466px;
+    margin-left:837px;
+}
+#text{
+    font-family: "Times New Roman", Times, serif;
+    font-size:64px;
+    font-weight:"bold";
+    margin-left:108px;
+    padding:18px;
+}
+.result{ 
+    background-color:rgba(132, 187, 219, 0.959);
+    height:500px;
+    width:400px;
+    margin-left:500px;
+    margin-top:64px;
+    border-radius:32px;
+    box-shadow: 10px 10px 9px rgba(179, 239, 250, 0.959);
+}
+#percent{
+    font-family: "Times New Roman", Times, serif;
+    font-size:24px;
+    font-weight:"bold";
+    margin-left:108px;
+    padding:18px;
+}
+.resultdetails{
+    display:flex;
+    font-size:19px;
+    font-family: "Times New Roman", Times, serif;
+    padding:2px;
+}
+*{
+    margin: 0;padding: 0;
+}
+.body{
+    width: auto;
+    height: 540px;
+    padding:42px;
+    background-color: rgb(223, 249, 253);
+}
+.bo{ 
+    background-image: linear-gradient(to right, rgba(158, 218, 245, 0.959), rgba(65, 185, 255, 0.959));
+    margin-left:480px;
+    padding:26px;
+    height:500px;
+    width:300px;
+    border-radius:32px;
+    box-shadow: 10px 10px 9px rgba(179, 239, 250, 0.959);
+}
+#image{
+    padding-left:17px;
+    padding-top:30px;
+}
+#button{
+    font-weight: bold;
+    background-color: rgba(247, 166, 14, 0.973);
+    color:white;
+    width: 294px;
+    height:42px;
+    margin-top:20px;
+    margin-left:3px;
+    border-radius:22px;
+}
+
+#login{ 
+    background-color: rgb(230, 16, 16);
+    color:white;
+    width:100px;
+    margin-top:30px;
+    margin-left:3px;
+    border-radius:22px;
+}
+#signup{ 
+    background-color: rgb(230, 16, 16);
+    color:white;
+    width:100px;
+    margin-top:30px;
+    margin-left:97px;
+    border-radius:22px;
+}
